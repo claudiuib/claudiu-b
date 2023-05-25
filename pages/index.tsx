@@ -42,7 +42,7 @@ export default function Index(props:IndexItemProps) {
  
     <p className='text-white text-left   text-left text-base leading-loose mt-12'>
     
-    Hello! I'm passionate about web development, mobile development, machine learning, and artificial intelligence. As a web developer, I love creating dynamic and interactive websites that engage users . My interest in machine learning and AI drives me to explore innovative solutions and find ways to enhance decision-making processes. I'm constantly learning and staying up-to-date with the latest technologies in these fields to broaden my knowledge and contribute to the ever-evolving world of technology.
+    Hello! I'm Claudiu, passionate about web development, mobile development, machine learning, and artificial intelligence. As a web developer, I love creating dynamic and interactive websites that engage users . My interest in machine learning and AI drives me to explore innovative solutions and find ways to enhance decision-making processes. I'm constantly learning and staying up-to-date with the latest technologies in these fields to broaden my knowledge and contribute to the ever-evolving world of technology.
 </p>
 
     
