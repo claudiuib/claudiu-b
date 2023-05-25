@@ -47,7 +47,7 @@ export default function Index(props:IndexItemProps) {
 
     
     </div>
-    <div className='mt-2'>
+    <div className='mt-4'>
     <button className="bg-[#00A67E] hover:bg-[#00614B] text-white font-bold py-2 px-4 rounded-lg">
       <Link href={"/contact"}>
  Contact Me
