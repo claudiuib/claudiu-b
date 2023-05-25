@@ -37,7 +37,7 @@ export default function Index(props:IndexItemProps) {
   </div>
 
   <div className='w-1/2 bg-[rgb(36,36,36)]'>
-    <div className='w-80'>
+    <div className='w-90'>
    
  
     <p className='text-white text-left font-sans text-base leading-loose mt-12'>
