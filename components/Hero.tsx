@@ -12,8 +12,8 @@ export default function Hero({}:Props) {
   });
 
   return(
-    <div className='leading-loose mt-10'>
-        <h1 className='text-2xl'>
+    <div className='leading-loose mt-12'>
+        <h1 className='text-4xl'>
             <span className='text-white '>{text}</span>
             <Cursor cursorColor='grey' />
         </h1>
