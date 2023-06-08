@@ -47,7 +47,7 @@ export default function Index(props: IndexItemProps) {
           <div className='max-w-[500px] mx-auto px-4'>
           
             <p className='text-white leading-loose mt-12 text-lg'>
-              Hello! I'm Claudiu, passionate about web development, mobile development, machine learning, and artificial
+              Hello! I'm Claudiu-Iulian Busteaga, passionate about web development, mobile development, machine learning, and artificial
               intelligence. As a web developer, I love creating dynamic and interactive websites that engage users. My
               interest in machine learning and AI drives me to explore innovative solutions and find ways to enhance
               decision-making processes. I'm constantly learning and staying up-to-date with the latest technologies in
